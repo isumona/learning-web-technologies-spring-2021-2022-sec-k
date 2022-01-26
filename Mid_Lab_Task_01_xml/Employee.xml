@@ -1,0 +1,33 @@
+<EMPLOYEES>
+    <EMPLOYEE ID = 1>
+        <NAME>JOHN DOE</NAME>
+        <ADRESS>
+            <HOUSE>38</HOUSE>
+            <ROAD>3</ROAD>
+            <AREA>BANANI DHAKA</AREA>
+        </ADRESS>
+        <DEPARTMENT>SALES</DEPARTMENT>
+        <SALARY>20000</SALARY>
+    </EMPLOYEE>
+    <EMPLOYEE ID = 2>
+        <NAME>MARK ZUCKERBERG</NAME>
+        <ADRESS>
+            <FLAT>A/1</FLAT>
+            <HOUSE>20</HOUSE>
+            <ROAD>18</ROAD>
+            <AREA>MIRPUR DHAKA</AREA>
+        </ADRESS>
+        <DEPARTMENT>ACCOUNTS</DEPARTMENT>
+        <SALARY>12000</SALARY>
+    </EMPLOYEE>
+    <EMPLOYEE ID = 3>
+        <NAME>ALA VOSKI</NAME>
+        <ADRESS>
+            <HOUSE>38</HOUSE>
+            <ROAD>3</ROAD>
+            <AREA>MOTIJHEEL</AREA>
+        </ADRESS>
+        <DEPARTMENT>HUMAN RESOURCE</DEPARTMENT>
+        <SALARY>30000</SALARY>
+    </EMPLOYEE>
+</EMPLOYEES>
